@@ -1,0 +1,20 @@
+{
+  "name": "mcdm-profil",
+  "version": "1.0.0",
+  "description": "# Dette er h1 ## Dette er h2 ### dette er h3 #### dette er h4 ##### dette er h5 ###### dette er h6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pernille1/mcdm-profil.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pernille1/mcdm-profil/issues"
+  },
+  "homepage": "https://github.com/Pernille1/mcdm-profil#readme"
+}
