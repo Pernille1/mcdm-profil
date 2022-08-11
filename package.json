@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Pernille1/mcdm-profil/issues"
   },
-  "homepage": "https://github.com/Pernille1/mcdm-profil#readme"
+  "homepage": "https://github.com/Pernille1/mcdm-profil#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "eslint": "^8.21.0"
+  }
 }
